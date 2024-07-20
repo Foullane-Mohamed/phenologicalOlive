@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 body {
-=======
+
 body{
 >>>>>>> 260e44f74d5db7cd9f8895b36cf5e50e12064b37
   margin: 0;
@@ -9,22 +9,20 @@ body{
 }
 <<<<<<< HEAD
 
-=======
->>>>>>> 260e44f74d5db7cd9f8895b36cf5e50e12064b37
 .hero-section {
   background-image: url('../images/back.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
-<<<<<<< HEAD
 
-=======
+
+
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
->>>>>>> 260e44f74d5db7cd9f8895b36cf5e50e12064b37
+
   color: white;
 }
 
@@ -40,7 +38,7 @@ align-items: center;
 justify-content: center;
 gap: 250px;
 padding: 20px;
-=======
+
   padding: 1rem;
   position: fixed;
   top: 0;
@@ -48,7 +46,7 @@ padding: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
->>>>>>> 260e44f74d5db7cd9f8895b36cf5e50e12064b37
+
   z-index: 1000;
 }
 
@@ -137,9 +135,6 @@ padding: 20px;
   background-color: #FFC107;
 }
 
-<<<<<<< HEAD
-
-=======
 /* Content Section Styling */
 .section {
   padding: 4rem 0;
@@ -169,7 +164,7 @@ padding: 20px;
   display: block;
   margin: 0 auto;
 }
->>>>>>> 260e44f74d5db7cd9f8895b36cf5e50e12064b37
+
 
 
 /* Footer Styling */
@@ -236,8 +231,6 @@ padding: 20px;
   font-size: 0.875rem;
 }
 
-<<<<<<< HEAD
-=======
 
 /* Mobile responsiveness */
 @media (max-width: 768px) {
@@ -314,4 +307,3 @@ padding: 20px;
 .footer-socials a:hover {
   color: #FFD700;
 }
->>>>>>> 260e44f74d5db7cd9f8895b36cf5e50e12064b37
